@@ -30,12 +30,7 @@
         <h2>Mục tiêu</h2>
         <p>Trong tương lai, tôi mong muốn trở thành một nhà tuyển dụng để có thể đóng góp cho xã hội và phát triển bản thân hơn nữa.</p>
     </section>
-    <section>
-        <h2>Ảnh học sinh</h2>
-        <p><img src="461165182_3804127103238518_1074846194109332916_n copy.jpg" alt="Cầu Vàng Đà Nẵng"></p>
-    </section>
-
-    <footer>
+   <footer>
         <p>Liên hệ: chungphuu2007@gmail.com</p>
         <p>Số điện thoại:0843326357</p>
     </footer>
