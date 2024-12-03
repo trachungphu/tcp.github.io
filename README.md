@@ -24,8 +24,6 @@
             <li>Chơi bida</li>
         </ul>
     </section>
-
-
     <section id="goals">
         <h2>Mục tiêu</h2>
         <p>Trong tương lai, tôi mong muốn trở thành một nhà tuyển dụng để có thể đóng góp cho xã hội và phát triển bản thân hơn nữa.</p>
